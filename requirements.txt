@@ -1,0 +1,4 @@
+# Runtime dependencies declared in main.py's PEP 723 script metadata.
+huggingface-hub
+llama-cpp-python
+numpy
